@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.414cfcf5.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/react/\u8FDB\u9636/ReactRouter\u642D\u5EFA.md"}'),r={name:"articles/react/\u8FDB\u9636/ReactRouter\u642D\u5EFA.md"};function c(o,s,n,_,i,p){return a(),t("div")}const m=e(r,[["render",c]]);export{l as __pageData,m as default};
